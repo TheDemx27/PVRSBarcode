@@ -1,0 +1,14 @@
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Release\Phoneword.dll
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Release\Phoneword.pdb
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Release\zxing.monoandroid.dll
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Release\Phoneword.dll
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Release\Phoneword.pdb
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Release\res\layout\main.xml
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Release\res\values\strings.xml
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Release\res\drawable\icon.png
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Release\R.cs.flag
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Release\uploadflags.txt
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Release\Phoneword.csprojResolveAssemblyReference.cache
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Release\Demx.BarcodeGen.apk
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Release\Demx.BarcodeGen-Signed.apk
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Release\android\bin\Demx.BarcodeGen.apk

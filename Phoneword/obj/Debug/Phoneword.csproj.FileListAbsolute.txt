@@ -1,0 +1,14 @@
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.dll
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.pdb
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.dll.mdb
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.Phoneword.apk
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.Phoneword-Signed.apk
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Debug\zxing.monoandroid.dll
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Debug\Phoneword.dll
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Debug\Phoneword.pdb
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Debug\android\bin\Phoneword.Phoneword.apk
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Debug\res\layout\main.xml
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Debug\res\values\strings.xml
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Debug\res\drawable\icon.png
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Debug\R.cs.flag
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\obj\Debug\uploadflags.txt

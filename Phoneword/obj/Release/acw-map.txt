@@ -1,0 +1,4 @@
+BarcodeGen.MainActivity, Phoneword;md5319df7e1061a186f520edaaea6199eab.MainActivity
+BarcodeGen.MainActivity, Phoneword, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5319df7e1061a186f520edaaea6199eab.MainActivity
+BarcodeGen.MainActivity;md5319df7e1061a186f520edaaea6199eab.MainActivity
+barcodegen.MainActivity;md5319df7e1061a186f520edaaea6199eab.MainActivity

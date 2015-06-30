@@ -1,0 +1,2 @@
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\Phoneword\bin\Debug\Phoneword.dll
+C:\Users\Demx\Documents\Visual Studio 2013\Projects\Phoneword\lib\zxing.monoandroid.dll
